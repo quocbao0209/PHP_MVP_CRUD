@@ -1,0 +1,25 @@
+.message {
+    color: red;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.form_action {
+    display: none;
+}
+
+.btn-add {
+    margin-bottom: 20px;
+}
+
+.heading-main {
+    text-transform: capitalize;
+}
+
+.tab-item {
+    display: none;
+}
+
+.tab-item.active {
+    display: block;
+}
